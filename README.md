@@ -4,7 +4,8 @@ a tool that sends bulk message to telegram users
 developer: https://t.me/pysmart
 
 
-![FFB92B22-B027-4874-8E30-BBE32A3749E5](https://github.com/user-attachments/assets/e1738869-c48b-4e03-a760-9211d8316493)
+![tgm](https://github.com/user-attachments/assets/65b50427-3b11-4260-a522-8c784599e0e0)
+
 
 
 # STEPS TO FOLLOW
