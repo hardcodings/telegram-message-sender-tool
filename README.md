@@ -38,4 +38,4 @@ developer: https://t.me/pysmart
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
 For sending messages to phone numbers, ensure they are in your Telegram contacts. 
 
-sending automated messages to telegram users after scraping the users fromn a group or channel.
+sending automated messages to telegram users after scraping the users fromn a group or channel and auto forwarding telegram messages to channel and groups
