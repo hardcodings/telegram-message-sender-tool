@@ -43,3 +43,4 @@ sending automated messages to telegram users after scraping the users fromn a gr
 TELEGRAM MESSAGE SENDER
 TELEGRAM BULK MESSAGE SENDER
 TELEGRAM MASS DM TOOL
+TELEGRAM AUTO SEND BOT
